@@ -1,0 +1,6 @@
+{
+  "name": "মানবতার ফেরিওয়ালা - Manobotar Fariyala",
+  "description": "Facebook-এর মতো পূর্ণাঙ্গ সোশ্যাল মিডিয়া ও মানবসেবা প্ল্যাটফর্ম। জনক: এস এন নাজমুল সরকার (SN Nazmul Sarker), হেল্পলাইন: 01825986764। সম্পূর্ণ ফ্রি সেবা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
